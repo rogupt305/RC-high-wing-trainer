@@ -38,6 +38,7 @@ Here is a detailed breakdown of the components, accessories, and parts I selecte
 ## Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
 PURPOSE: Powers the entire plane - the motor, reciever, and servos. 
 SPECS: Usually a 2S (6.6-7.4V) or a 3S (11.1V) battery with 1000-1500 mAh capacity. 
+
 MY CHOICE: Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug
 CHARGER CHOICE: B6 Charger (Search this on Flite Test)
 THINGS TO KEEP IN MIND: When selecting a battery, it is critical to note that LiPo batteries are more prone to explosions if not kept properly, and require extensive charging and security measures, such as a fireproof bag. However, these batteries generally last longer and offer better performance than LiFePO₄ batteries. In the end, it really is a matter of your preference - performance or safety. Also, I reccomend purchasing multiple batteries (to swap out) - because even the best battery will only power your craft for no more than 15 minutes.
