@@ -85,7 +85,8 @@ MY CHOICE: 3x 9g servos
 Foamboard - A versatile, easy to cut, strong material for RC aircraft
 Power pod - Encases electronics, can be swapped between planes; adds customization
 Firewall - seperates the motor from rest of electronics/aircraft in case of motor fire
-Assembly kit - Crucial for 
+Assembly kit - Crucial for assembling RC planes; includes glue, tape, servo centerers, etc.
+
 ## Direct Links
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
