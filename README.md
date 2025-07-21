@@ -36,7 +36,7 @@ Before designing and assembling the airframe, I began by selecting the key elect
 Here is a detailed breakdown of the components, accessories, and parts I selected, and what each one does:
 
 
-## Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
+### Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
 PURPOSE: Powers the entire plane - the motor, reciever, and servos. 
 
 SPECS: Usually a 2S (6.6-7.4V) or a 3S (11.1V) battery with 1000-1500 mAh capacity. 
