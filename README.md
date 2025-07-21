@@ -83,7 +83,7 @@ MY CHOICE: 3x 9g servos
 
 ## Direct Links
 
-| LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="(https://store.flitetest.com/ tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/?searchid=0&search_query=Tattu+1300+MAH)"> Link </a> |
+| LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="store.flitetest.com/tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/?searchid=0&search_query=Tattu+1300+MAH)"> Link </a> |
 | FT Power Pack B Radial v.2 | INCLUDES: ESC, Motor, 4x 9g Servos, Servo Cable Extenders, Propellors | $74.99 | <a href="https://store.flitetest.com/ft-power-pack-b-radial-v-2/?searchid=0&search_query=FT+power+pack"> Link </a> |
 | Reciever | Spektrum 4-channel | $34.99 | <a href="(https://store.flitetest.com/spektrum-ar410-4-channel-dsmx-aircraft-receiver-spmar410/?searchid=0&search_query=spek)"> Link </a> |
 | Charger | B6 Balance Charger | $39.99 | <a href="https://store.flitetest.com/b6-charger/?searchid=0&search_query=b6+"> Link <a/>|
