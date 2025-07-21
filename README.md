@@ -35,6 +35,7 @@ Enjoy the process!
 Before designing and assembling the airframe, I began by selecting the key electronic components required to make an RC airplane functional and controllable. Since this was my first RC build, I chose to source the main electronics from Flite Test - a well-known and beginner-friendly site that offers high-quality, affordable parts designed for DIY foamboard aircraft. While the components are described individually, it's crucial to note that some parts are grouped with others to form a kit, which can be found on the Flite Test website. At the end of this step, there is a table which shows the exact costs, links, and parts that I purchased. 
 Here is a detailed breakdown of the components, accessories, and parts I selected, and what each one does:
 
+
 ## Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
 PURPOSE: Powers the entire plane - the motor, reciever, and servos. 
 
@@ -45,12 +46,14 @@ MY CHOICE: Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug
 CHARGER CHOICE: B6 Charger (Search this on Flite Test)
 THINGS TO KEEP IN MIND: When selecting a battery, it is critical to note that LiPo batteries are more prone to explosions if not kept properly, and require extensive charging and security measures, such as a fireproof bag. However, these batteries generally last longer and offer better performance than LiFePO₄ batteries. In the end, it really is a matter of your preference - performance or safety. Also, I reccomend purchasing multiple batteries (to swap out) - because even the best battery will only power your craft for no more than 15 minutes.
 
+
 ## ESC (Electronic Speed Controller)
 PURPOSE: Connects the battery to the motor and regulates power based on your throttle input.
 
 FUNCTION: Converts DC battery voltage into three-phase power for the brushless motor.
 
 MY CHOICE: FT 25 Amp ESC with XT60 and 3.5mm Bullet Connectors
+
 
 ## Brushless Motor
 PURPOSE: Spins the propellor to generate thrust
@@ -59,6 +62,7 @@ SPECS: Rated by KV (RPM per Volt). A ~1300KV motor is deal for beginner planes -
 
 MY CHOICE: FT Radial 2212-1050kV (Slightly less than 1300KV, but will get the job done.)
 
+
 ## Propellor
 PURPOSE: Converts rotational motion into forward thrust.
 
@@ -66,20 +70,24 @@ SPECS: Usually something along the lines of 8x4 or 9x5, directly matched to the 
 
 MY CHOICE: Propellers (9x4.5)
 
+
 ## Reciever
 PURPOSE: Recieves signals from your transmitter, and relays them to the servos and ESC. 
 
 MY CHOICE: Spektrum AR410 4-channel DSMX Aircraft Receiver (A four-channel reciever, bound to my transmitter. This reciever can be swapped between aircraft in the future, making the investment reusable. 
+
 
 ## Transmitter (Radio Controller)
 PURPOSE: The handheld remote that enables you to control throttle, pitch, roll and yaw by the joysticks. 
 
 MY CHOICE: Spektrum DX6e 6-Channel DSMX 2.4GHz RC Radio Transmitter
 
+
 ## Servos (Micro Servo Motors)
 PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirect the plane. 
 
 MY CHOICE: 3x 9g servos
+
 
 ## ACCESSORIES
 Foamboard - A versatile, easy to cut, strong material for RC aircraft
@@ -104,12 +112,23 @@ Assembly kit - Crucial for assembling RC planes; includes glue, tape, servo cent
 | Assembly Kit | FT Crafty Kit v.2 - NOTE: Must be the v.2, not Basic version | $99.99 | <a href="https://store.flitetest.com/ft-crafty-kit-v2/?searchid=0&search_query=ft+crafty+kit"> Link <a/>|
 
 
-|  |  | $ | <a href=""> Link <a/>|
-|  |  | $ | <a href=""> Link <a/>|
-|  |  | $ | <a href=""> Link <a/>|
-
 ## Why Flite Test?
 
 As a beginner in the hobby, I found that Flite Test's Power Pack bundles are extremely useful. They group together all the motor, ESC, servo and connecter components that are guaranteed to work with each other and with foamboard-based scratch builds. I highly reccomend checking out their website, as they have a plethora of important information to share. 
 
 This electronics setup is also scalable. This means that I can reuse components such as the power pod (see below) and all the electronics in future builds. 
+
+
+### STEP 2: Assembling the Power Pod, Readying Electronics
+
+
+
+### STEP 3: Assembling the Lift and Control Surfaces
+
+The lift and control surfaces are by far the most crucial part of any aircraft, since they are what allows it to lift off the ground and control pitch, yaw and roll. 
+
+## Wings
+The most efficient wing design is an airfoil. ( <a href="https://www.flitetest.com/articles/essencial-rc-airplane-aerodynamics-the-basics"> Link <a/> to how this works, in case you are unfamiliar with this concept)
+
+
+### STEP 4: Assembling the Fuselage, CG Testing
