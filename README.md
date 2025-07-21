@@ -119,11 +119,11 @@ As a beginner in the hobby, I found that Flite Test's Power Pack bundles are ext
 This electronics setup is also scalable. This means that I can reuse components such as the power pod (see below) and all the electronics in future builds. 
 
 
-### STEP 2: Assembling the Power Pod, Readying Electronics
+# STEP 2: Assembling the Power Pod, Readying Electronics
 
 
 
-### STEP 3: Assembling the Lift and Control Surfaces
+# STEP 3: Assembling the Lift and Control Surfaces
 
 The lift and control surfaces are by far the most crucial part of any aircraft, since they are what allows it to lift off the ground and control pitch, yaw and roll. 
 
@@ -131,4 +131,4 @@ The lift and control surfaces are by far the most crucial part of any aircraft, 
 The most efficient wing design is an airfoil. ( <a href="https://www.flitetest.com/articles/essencial-rc-airplane-aerodynamics-the-basics"> Link<a/> to how this works, in case you are unfamiliar with this concept)
 
 
-### STEP 4: Assembling the Fuselage, CG Testing
+# STEP 4: Assembling the Fuselage, CG Testing
