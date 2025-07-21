@@ -80,3 +80,15 @@ MY CHOICE: Spektrum DX6e 6-Channel DSMX 2.4GHz RC Radio Transmitter
 PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirect the plane. 
 
 MY CHOICE: 3x 9g servos
+
+## Direct Links
+
+| **Part** | **Type** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://store.flitetest.com/tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/?searchid=0&search_query=Tattu+1300+MAH)"> Link </a> |
+| FT Power Pack B Radial v.2 | INCLUDES: ESC, Motor, 4x 9g Servos, Servo Cable Extenders, Propellors | $74.99 | <a href="https://store.flitetest.com/ft-power-pack-b-radial-v-2/?searchid=0&search_query=FT+power+pack"> Link </a> |
+## Why Flite Test?
+
+As a beginner in the hobby, I found that Flite Test's Power Pack bundles are extremely useful. They group together all the motor, ESC, servo and connecter components that are guaranteed to work with each other and with foamboard-based scratch builds. I highly reccomend checking out their website, as they have a plethora of important information to share. 
+
+This electronics setup is also scalable. This means that I can reuse components such as the power pod (see below) and all the electronics in future builds. 
