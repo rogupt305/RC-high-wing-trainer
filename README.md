@@ -35,6 +35,8 @@ Enjoy the process!
 Before designing and assembling the airframe, I began by selecting the key electronic components required to make an RC airplane functional and controllable. Since this was my first RC build, I chose to source the main electronics from Flite Test - a well-known and beginner-friendly site that offers high-quality, affordable parts designed for DIY foamboard aircraft. While the components are described individually, it's crucial to note that some parts are grouped with others to form a kit, which can be found on the Flite Test website. At the end of this step, there is a table which shows the exact costs, links, and parts that I purchased. 
 Here is a detailed breakdown of the components, accessories, and parts I selected, and what each one does:
 
+
+
 ## ELECTRONICS
 
 ### Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
@@ -90,7 +92,9 @@ PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirec
 MY CHOICE: 3x 9g servos
 
 
+
 ## ACCESSORIES
+
 ### Foamboard
 
 A versatile, easy to cut, strong material for RC aircraft
