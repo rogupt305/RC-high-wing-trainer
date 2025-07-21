@@ -81,10 +81,16 @@ PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirec
 
 MY CHOICE: 3x 9g servos
 
+## ACCESSORIES
+Foamboard - A versatile, easy to cut, strong material for RC aircraft
+Power pod - Encases electronics, can be swapped between planes; adds customization
+Firewall - seperates the motor from rest of electronics/aircraft in case of motor fire
+Assembly kit - Crucial for 
 ## Direct Links
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="https://store.flitetest.com/tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/"> Link </a> |
+
 | FT Power Pack B Radial v.2 | ESC, Motor, 4x 9g Servos, Servo Cable Extenders, Propellors | $74.99 | <a href="https://store.flitetest.com/ft-power-pack-b-radial-v-2/?searchid=0&search_query=FT+power+pack"> Link </a> |
 | Reciever | Spektrum 4-channel | $34.99 | <a href="https://store.flitetest.com/spektrum-ar410-4-channel-dsmx-aircraft-receiver-spmar410/?searchid=0&search_query=spek"> Link </a> |
 | Charger | B6 Balance Charger | $39.99 | <a href="https://store.flitetest.com/b6-charger/?searchid=0&search_query=b6+"> Link <a/>|
