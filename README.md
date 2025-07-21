@@ -79,5 +79,4 @@ MY CHOICE: Spektrum DX6e 6-Channel DSMX 2.4GHz RC Radio Transmitter
 ## Servos (Micro Servo Motors)
 PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirect the plane. 
 
-MY CHOICE: 
-
+MY CHOICE: 3x 9g servos
