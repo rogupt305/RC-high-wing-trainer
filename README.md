@@ -98,10 +98,10 @@ MY CHOICE: 3x 9g servos
 | Power Pod | Flite Test Swappable Power Pod | $9.99 | <a href="https://store.flitetest.com/swappable-power-pod-firewall-5-pack-mkr2/?searchid=0&search_query=ft+power+pod"> Link <a/>|
 
 
-| Foam Board | Flite Test Maker Foamboard | $69.99 | <a href="store.flitetest.com/flite-test-maker-foam-board-by-adams-v2-20-pack/?searchid=0&search_query=Maker+foamboard"> Link <a/>|
+| Foam Board | Flite Test Maker Foamboard | $69.99 | <a href="https://store.flitetest.com/flite-test-maker-foam-board-by-adams-v2-20-pack/"> Link <a/>|
 
 
-| Assembly Kit | FT Crafty Kit v.2 - NOTE: Must be the v.2, not Basic version | $99.99 | <a href="store.flitetest.com/ft-crafty-kit-v2/?searchid=0&search_query=ft+crafty+kit"> Link <a/>|
+| Assembly Kit | FT Crafty Kit v.2 - NOTE: Must be the v.2, not Basic version | $99.99 | <a href="https://store.flitetest.com/ft-crafty-kit-v2/?searchid=0&search_query=ft+crafty+kit"> Link <a/>|
 
 
 |  |  | $ | <a href=""> Link <a/>|
