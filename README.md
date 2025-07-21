@@ -86,7 +86,7 @@ MY CHOICE: 3x 9g servos
 | LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="store.flitetest.com/tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/?searchid=0&search_query=Tattu+1300+MAH)"> Link </a> |
 
 
-| FT Power Pack B Radial v.2 | INCLUDES: ESC, Motor, 4x 9g Servos, Servo Cable Extenders, Propellors | $74.99 | <a href="https://store.flitetest.com/ft-power-pack-b-radial-v-2/?searchid=0&search_query=FT+power+pack"> Link </a> |
+| FT Power Pack B Radial v.2 | ESC, Motor, 4x 9g Servos, Servo Cable Extenders, Propellors | $74.99 | <a href="https://store.flitetest.com/ft-power-pack-b-radial-v-2/?searchid=0&search_query=FT+power+pack"> Link </a> |
 
 
 | Reciever | Spektrum 4-channel | $34.99 | <a href="(https://store.flitetest.com/spektrum-ar410-4-channel-dsmx-aircraft-receiver-spmar410/?searchid=0&search_query=spek)"> Link </a> |
@@ -101,7 +101,7 @@ MY CHOICE: 3x 9g servos
 | Foam Board | Flite Test Maker Foamboard | $69.99 | <a href="store.flitetest.com/flite-test-maker-foam-board-by-adams-v2-20-pack/?searchid=0&search_query=Maker+foamboard"> Link <a/>|
 
 
-| Assembly Kit | FT Crafty Kit v.2 - NOTE: The "Basic" Version of the kit does not have all necessary parts for this project | $99.99 | <a href="store.flitetest.com/ft-crafty-kit-v2/?searchid=0&search_query=ft+crafty+kit"> Link <a/>|
+| Assembly Kit | FT Crafty Kit v.2 - NOTE: Must be the v.2, not Basic version | $99.99 | <a href="store.flitetest.com/ft-crafty-kit-v2/?searchid=0&search_query=ft+crafty+kit"> Link <a/>|
 
 
 |  |  | $ | <a href=""> Link <a/>|
