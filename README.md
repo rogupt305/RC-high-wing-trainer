@@ -82,7 +82,8 @@ PURPOSE: Move control surfaces (elevator, rudder, ailerons) to steer and redirec
 MY CHOICE: 3x 9g servos
 
 ## Direct Links
-
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
 | LiPo Battery | Tattu 1300mAh 45C 3S1P 11.1V Lipo Battery Pack With XT-60 Plug | $126.99 | <a href="https://store.flitetest.com/tattu-1300mah-45c-3s1p-11-1v-lipo-battery-pack-with-xt-60-plug/"> Link </a> |
 
 
