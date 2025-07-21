@@ -30,11 +30,12 @@ Enjoy the process!
 
 
 
-# STEP 1: Parts Selection, Electronics, Everything Necessary to Make a Plane Fly
+# STEP 1: Parts Selection, Electronics, Accessories, Everything Necessary to Make a Plane Fly
 
 Before designing and assembling the airframe, I began by selecting the key electronic components required to make an RC airplane functional and controllable. Since this was my first RC build, I chose to source the main electronics from Flite Test - a well-known and beginner-friendly site that offers high-quality, affordable parts designed for DIY foamboard aircraft. While the components are described individually, it's crucial to note that some parts are grouped with others to form a kit, which can be found on the Flite Test website. At the end of this step, there is a table which shows the exact costs, links, and parts that I purchased. 
 Here is a detailed breakdown of the components, accessories, and parts I selected, and what each one does:
 
+## ELECTRONICS
 
 ### Battery - LiPo (Lithium Polymer) or LiFePO₄ (Lithium Iron Phosphate)
 PURPOSE: Powers the entire plane - the motor, reciever, and servos. 
@@ -90,13 +91,21 @@ MY CHOICE: 3x 9g servos
 
 
 ## ACCESSORIES
-Foamboard - A versatile, easy to cut, strong material for RC aircraft
+### Foamboard
 
-Power pod - Encases electronics, can be swapped between planes; adds customization
+A versatile, easy to cut, strong material for RC aircraft
 
-Firewall - seperates the motor from rest of electronics/aircraft in case of motor fire
+### Power pod
 
-Assembly kit - Crucial for assembling RC planes; includes glue, tape, servo centerers, etc.
+Encases electronics, can be swapped between planes; adds customization
+
+### Firewall
+
+Seperates the motor from rest of electronics/aircraft in case of motor fire
+
+### Assembly kit
+
+Crucial for assembling RC planes; includes glue, tape, servo centerers, etc.
 
 
 ## Direct Links
