@@ -145,6 +145,7 @@ The most efficient wing design is an airfoil. ( <a href="https://www.naa.edu/air
 Instead of using multiple pieces of foamboard and attaching them together, I found an efficient way that only utilizes one single sheet. Here's what I did:
 
 Starting off with a full sheet of foamboard (__ x 30), I measured out and drew three lines at 7.5, 9.25 and 9.75 inches from the bottom of the foamboard sheet. 
+
 <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400">
 
 
