@@ -141,7 +141,12 @@ This electronics setup is also scalable. This means that I can reuse components 
 The lift and control surfaces are by far the most crucial part of any aircraft, since they are what allows it to lift off the ground and control pitch, yaw and roll. 
 
 ## Wings
-The most efficient wing design is an airfoil. ( <a href="https://www.flitetest.com/articles/essencial-rc-airplane-aerodynamics-the-basics"> Link<a/> to how this works, in case you are unfamiliar with this concept)
+The most efficient wing design is an airfoil. ( <a href="https://www.naa.edu/airfoil-design/"> Link<a/> to how this works, in case you are unfamiliar with this concept). My airfoil was rather boxy in shape, with curves not as smooth as a traditional one. However, it was more than capable of getting the job done. 
+Instead of using multiple pieces of foamboard and attaching them together, I found an efficient way that only utilizes one single sheet. Here's what I did:
+
+Starting off with a full sheet of foamboard (__ x 30), I measured out and drew three lines at 7.5, 9.25 and 9.75 inches from the bottom of the foamboard sheet. 
+<img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400">
+
 
 
 # STEP 4: Assembling the Fuselage, CG Testing
