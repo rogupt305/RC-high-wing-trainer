@@ -150,7 +150,7 @@ My spar was a double-reinforced sheet of foamboard, and significantly bolsters t
 
 After this, the next step was to glue the spar onto the wing-foamboard (See Figure 2). Before doing so, I used the FliteTest knife to lightly score each of the three lines, making sure not to accidentally cut them into four seperate strips (Only cut the top half of the foamboard's thickness, not the whole way). Then, I flipped the entire foamboard over onto the un-cut side, found the correct spot, and glued the spar in between the two closest scores on the foamboard.  
 
-<img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400">       <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400"> 
+<img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400">        <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400"> 
 
 
 
