@@ -144,7 +144,11 @@ The lift and control surfaces are by far the most crucial part of any aircraft, 
 The most efficient wing design is an airfoil. ( <a href="https://www.naa.edu/airfoil-design/"> Link<a/> to how this works, in case you are unfamiliar with this concept). My airfoil was rather boxy in shape, with curves not as smooth as a traditional one. However, it was more than capable of getting the job done. 
 Instead of using multiple pieces of foamboard and attaching them together, I found an efficient way that only utilizes one single sheet. Here's what I did:
 
-Starting off with a full sheet of foamboard (__ x 30), I measured out and drew three lines at 7.5, 9.25 and 9.75 inches from the bottom of the foamboard sheet. 
+Starting off with a full sheet of foamboard (__ x 30), I measured out and drew three lines at 7.5, 9.25 and 9.75 inches from the bottom of the foamboard sheet (See Figure 1). I then left that sheet of foamboard aside, and started making the spar.
+
+My spar was a double-reinforced sheet of foamboard, and significantly bolsters the structural integrity of the wing. It is placed directly in the thickest portion of the airfoil, and retains it's shape. To make the spar, I first drew a line 1.5 inches from the bottom of a fresh piece of foamboard. Then, I cut out the entire 30-inch strip, before finally folding that entire strip in half and gluing each half together. The result was a sturdy length of foamboard that measured 30 inches long, 0.75 inches tall and 0.4 inches thick. 
+
+After this, the next step was to glue the spar onto the wing-foamboard (See Figure 2). Before doing so, I used the FliteTest knife to lightly score each of the three lines, making sure not to accidentally cut them into four seperate strips (Only cut the top half of the foamboard's thickness, not the whole way). Then, I flipped the entire foamboard over onto the un-cut side, found the correct spot, and glued the spar in between the two closest scores on the foamboard.  
 
 <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400"> <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400"> 
 
