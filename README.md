@@ -155,3 +155,6 @@ After this, the next step was to glue the spar onto the wing-foamboard (See Figu
 
 
 # STEP 4: Assembling the Fuselage, CG Testing
+
+## Fuselage
+To assemble the fuselage, I created a rectangular prism, as long as the full length of the foamboard, and cut it along the long side into sections measuring 2 inches long. Below is a sample image:
