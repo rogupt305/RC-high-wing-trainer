@@ -214,3 +214,6 @@ To create a sturdy fuselage, I utilized a new sheet of foamboard - dividing it i
 <img src="https://i.postimg.cc/9QjXbgrY/img1.jpg" alt="My iPhone photo" width="400">
 
 Following this, I added hot glue along the full length of each exposed crevice, for all four of them. This increases the integrity of the fuselage, preventing the structure from bending along the folds, and ensuring that the openings retain their square shape. If you don't have enough hot glue, I'd reccomend adding spars throughout the fuselage, though this method adds more weight to the plane. 
+
+
+This project is based on the Start Bootstrap Resume template (MIT License). Refer to the "License" tab on Github for more details.
