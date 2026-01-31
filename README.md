@@ -132,7 +132,11 @@ As a beginner in the hobby, I found that Flite Test's Power Pack bundles are ext
 This electronics setup is also scalable. This means that I can reuse components such as the power pod (see below) and all the electronics in future builds. 
 
 
-# STEP 2: Assembling the Power Pod, Readying Electronics
+# STEP 2: Assembling the Power Pod, Readying Electronics, Caring for your Battery
+
+## Caring for Your LIPO Battery
+The battery holds the greatest risk for fire or damage to you and your surroundings. It's important that you excersize good care for the battery whenever using it. BEFORE PROGRESSING, make sure to read <a href="https://www.hobby-addicts.com/blogs/news/the-ultimate-guide-to-rc-lipo-battery-care-and-maintenance?srsltid=AfmBOooGn46RWfYM8x0MsRsV87lkDkGGGyxn2zXOQoy9Z1O1La-4co_E"> this article <a/> from HobbyAddicts in all it's entirety - I found this a very detailed and useful explanation for how to understand the battery. Read this till the end, as everything here is important. SOme key numbers: 4.2V - typically the max voltage per cell when fully charged. 3.8V - the storage voltage. The battery can theoretically sit at this voltage for many months without chenical degredation. NEVER let the battery go below 3.65 volts for an extended period of time (around a few hours max), keeping it at full charge is reccomended for only about a day or two before discharging to storage voltage.
+
 The power pod and electronics are extremely critical components of any RC aircraft, providing and regulating the power, housing the battery and other components, and providing the ability to control the yaw, pitch and roll. 
 ## Power Pod
 To assemble the power pod, I followed <a href="https://www.youtube.com/watch?v=vuh7Gc3Dbh0"> this video from FliteTest <a/> , which details the basic assembly of the structure. Following this, I made my own modifications, adding two horizontal spars for a snug compartment for the battery. Additionally, I made the ESC dangle from below the structure, as it will be tucked in between the bottom of the power pod and the bottom of the fuselage. 
@@ -141,6 +145,8 @@ INSERTIMAGE
 INSERTIMAGE
 
 ## Electronics
+Before getting into anything, I'd highly reccomend that you watch <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY"> this video <a/>: it provides an overview of circutry in an RC plane, as well as all of the electronics likely involved. 
+
 ### Servos
 The first main step to preparing the electronics is centering the servo motors. This term refers to ensuring that the servos are turned to exactly 90 degrees, and are in the center position of their 180 degree range. When turning on the completed craft, the servos will automatically assume their 90 degree position - so it's important that they are pre-aligned before being attached. Luckily, the servos are shipped with an almost exact alignment at 90 degrees - but it's always important to verify the position of each motor. 
 
@@ -159,7 +165,29 @@ INSERTIMAGE
 
 ### Y-connector and Roll Direction
 The Y-connector, as it's name suggests, looks like a regular servo extension cable - but branches out into two other cables in the middle. On the wing of any plane, the roll is controlled by the ailerons. To turn the plane left or right, one alieron goes up, and the other one goes down - deflecting the wind and turning the plane. This means that the alierons never both move up or down - the movement of one is always in the opposite direction of the other. This is the purpose of the Y-connector - it reverses the direction of each of the wing servos, creating opposite movements. To attach them, simply plug in the two wing servos to the two cables coming from the joint of the y-connector - being careful to ensure that ground goes to ground, power to power, and servo to servo. Then, plug the Y-connector into Pin 2 on the reciever. 
-It's important to know 
+It's important to know the orientation of each servo on the wing - otherwise, the plane might turn in the opposite direction. We'll confirm this in the next section of this step.
+
+## Binding the Reciever to the Controller
+In order to control the plane, we need to bind the reciever to the transmitter (controller). For my setup, I used the Spektrum DX6E controller, along with the Spektrum AR410 Reciever, as mentioned in the parts list in Step 1. Here's how to do it:
+1. Ensure that the circutry is perfect - short circuts can occur if even one wire is wrongly connected.
+2. Plug in the yellow "banana connector" to the same one present on the ESC - it's the one with just two wires, the red (power) and the black (ground).
+3. After a few loud beeps, the reciever should have an orange light flashing - indicating that it's on bind mode.
+4. Ensure that the left joystick is pulled DOWN, otherwise, the controller will indicate "throttle high" when turned on and it may accidentally spin the motor. Always ensure that the throttle is turned all the way down whenever turning on the controller for the first time - though it should warn you before spinning the propellor.
+5. With the transmitter/controller OFF, locate the BIND button and hold it. Then, while holding the BIND button, power on the transmitter.
+6. Keep holding the BIND button until the LED on the reciever turns solid, confirming a successful bind.
+7. Move the left and right joysticks to move the servos, throttle, and ensure everything is working. It's advised to take off the propellor blade at this stage when spinning the throttle, for safety reasons
+8. Confirm if your servos are plugged in to the correct ports: the right joystick should control the alieron servos (horizontal movement of the joystick) and the elevator (vertical movement), and the left one should control the rudder servo (horizontal) and the throttle (vertical).
+
+### Distinguishing the Left Wing Servo from the Right Wing Servo
+To do this, follow these steps:
+1. Provide power to the transmitter and the setup correctly, ensure that the reviecer and transmitter are connected
+2. Place both wing servos next to each other, with the horns facing outward.
+3. Move the alieron joystick LEFT, and observe the direction the horns moved: the horn that moved DOWN is the servo for the right wing, and the one that moved UP is for the left wing.
+4. Test it by moving it RIGHT: this time, the servo that moved down is for the left wing, and the one moving up is for the right wing.
+Label each servo with a Post-It and disconnect the circutry, leave the wiring aside for now
+
+## Important Note about Battery Voltage
+During the above processes, the battery will likely lose very little voltage. However, if you repeat this multiple times for testing, ensure that your battery voltage is between 3.75V and 3.85V: the optimal storage voltage is 3.8V per cell for the Tattu 3S battery.
 
 # STEP 3: Assembling the Lift and Control Surfaces
 
