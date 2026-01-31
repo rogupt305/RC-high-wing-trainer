@@ -157,5 +157,7 @@ After this, the next step was to glue the spar onto the wing-foamboard (See Figu
 # STEP 4: Assembling the Fuselage, CG Testing
 
 ## Fuselage
-To create a sturdy fuselage, I utilized a new sheet of foamboard - dividing it into four sections along it's longest side, each with a height of 2 inches. Following this, I scored the cuts, careful not to break through the entire length of foamboard. Below is a reference image for how to make the cuts:
-<img src="(https://i.postimg.cc/9QjXbgrY/img1.jpg)" alt="My iPhone photo" width="400">
+To create a sturdy fuselage, I utilized a new sheet of foamboard - dividing it into four sections along it's longest side, each with a height of 2 inches. Following this, I scored the cuts, careful not to break through the entire length of foamboard. On the left is how I made the cuts, and on the right is how I folded it (with the crevices from the cuts facing outside) :
+<img src="https://i.postimg.cc/9QjXbgrY/img1.jpg" alt="My iPhone photo" width="400">
+
+Following this, I added hot glue along the full length of each exposed crevice, for all four of them. This increases the integrity of the fuselage, preventing the structure from bending along the folds, and ensuring that the openings retain their square shape. If you don't have enough hot glue, I'd reccomend adding spars throughout the fuselage, 
