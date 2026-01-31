@@ -133,8 +133,33 @@ This electronics setup is also scalable. This means that I can reuse components 
 
 
 # STEP 2: Assembling the Power Pod, Readying Electronics
+The power pod and electronics are extremely critical components of any RC aircraft, providing and regulating the power, housing the battery and other components, and providing the ability to control the yaw, pitch and roll. 
+## Power Pod
+To assemble the power pod, I followed <a href="https://www.youtube.com/watch?v=vuh7Gc3Dbh0"> this video from FliteTest <a/> , which details the basic assembly of the structure. Following this, I made my own modifications, adding two horizontal spars for a snug compartment for the battery. Additionally, I made the ESC dangle from below the structure, as it will be tucked in between the bottom of the power pod and the bottom of the fuselage. 
+INSERTIMAGE
+INSERTIMAGE
+INSERTIMAGE
 
+## Electronics
+### Servos
+The first main step to preparing the electronics is centering the servo motors. This term refers to ensuring that the servos are turned to exactly 90 degrees, and are in the center position of their 180 degree range. When turning on the completed craft, the servos will automatically assume their 90 degree position - so it's important that they are pre-aligned before being attached. Luckily, the servos are shipped with an almost exact alignment at 90 degrees - but it's always important to verify the position of each motor. 
 
+First, identify this piece: it's called the servo aligner:
+INSERTIMAGE
+
+To properly align the servos, I used <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY"> this video from FliteTest <a/>, which details how to safely utilize the servo aligner, such as how to plug in the servos and the battery. However, I attached the servo horns differently - so after watching the video, please be sure to refer back to this page. 
+
+For all of the servos, I attached the horn horizontally, like this:
+INSERTIMAGE
+
+### Reciever
+After aligning the servos, the next step is to plug them in in the correct order, along with the ESC, to the reciever. To plug them in correctly, leave the BATT port empty. Plug in the servo-resembling cord from the ESC into port 1, plug in the Y-connector (I'll explain what that is in a bit) into port 2, plug the elevator servo into pin 3, and finally plug in the rudder servo into pin 4. 
+Here's a reference image from my build of the reciever with the sires plugged in, and with the numberings (BATT, 1, 2, 3, 4) next to each port:
+INSERTIMAGE
+
+### Y-connector and Roll Direction
+The Y-connector, as it's name suggests, looks like a regular servo extension cable - but branches out into two other cables in the middle. On the wing of any plane, the roll is controlled by the ailerons. To turn the plane left or right, one alieron goes up, and the other one goes down - deflecting the wind and turning the plane. This means that the alierons never both move up or down - the movement of one is always in the opposite direction of the other. This is the purpose of the Y-connector - it reverses the direction of each of the wing servos, creating opposite movements. To attach them, simply plug in the two wing servos to the two cables coming from the joint of the y-connector - being careful to ensure that ground goes to ground, power to power, and servo to servo. Then, plug the Y-connector into Pin 2 on the reciever. 
+It's important to know 
 
 # STEP 3: Assembling the Lift and Control Surfaces
 
@@ -160,4 +185,4 @@ After this, the next step was to glue the spar onto the wing-foamboard (See Figu
 To create a sturdy fuselage, I utilized a new sheet of foamboard - dividing it into four sections along it's longest side, each with a height of 2 inches. Following this, I scored the cuts, careful not to break through the entire length of foamboard. On the left is how I made the cuts, and on the right is how I folded it (with the crevices from the cuts facing outside) :
 <img src="https://i.postimg.cc/9QjXbgrY/img1.jpg" alt="My iPhone photo" width="400">
 
-Following this, I added hot glue along the full length of each exposed crevice, for all four of them. This increases the integrity of the fuselage, preventing the structure from bending along the folds, and ensuring that the openings retain their square shape. If you don't have enough hot glue, I'd reccomend adding spars throughout the fuselage, 
+Following this, I added hot glue along the full length of each exposed crevice, for all four of them. This increases the integrity of the fuselage, preventing the structure from bending along the folds, and ensuring that the openings retain their square shape. If you don't have enough hot glue, I'd reccomend adding spars throughout the fuselage, though this method adds more weight to the plane. 
