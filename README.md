@@ -105,7 +105,7 @@ Recognizing the chemical volatility of Lithium Polymer (LiPo) cells, I implement
 
 <a href="https://www.hobby-addicts.com/blogs/news/the-ultimate-guide-to-rc-lipo-battery-care-and-maintenance?srsltid=AfmBOooGn46RWfYM8x0MsRsV87lkDkGGGyxn2zXOQoy9Z1O1La-4co_E">  <a href="https://www.youtube.com/watch?v=vuh7Gc3Dbh0"> <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY">  <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY"> 
 
-# STEP 3: Airframe Archetecture
+# STEP 3: Airframe Architecture
 The lift and control surfaces are by far the most crucial part of any aircraft, since they are what allows it to lift off the ground and control pitch, yaw and roll. 
 
 ## Objective
