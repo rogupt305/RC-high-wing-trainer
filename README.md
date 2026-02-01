@@ -63,7 +63,7 @@ This configuration is highly scalable, with the potential for usage in separate 
 - The Spektrum DX6E, being a 6-channel reciever, connects to a maximum of 6 recievers, effectively controlling 6 different aircraft.
 - Swappable power pod indicates 
 
-# STEP 2: Assembling the Power Pod, Readying Electronics, Caring for your Battery
+# STEP 2: System Integration and Control
 ## Electronic Component Configuration
 Before airframe assembly, I conducted a bench test of the propulsion and control systems focalizing on electrical viability and signal integrity of the setup. I selected a three-phase brushless motor and a 25A ESC, matching them to a 3S LiPo battery to provide a reliable power-to-weight ratio for a trainer-class aircraft. 
 
@@ -84,35 +84,57 @@ Recognizing the chemical volatility of Lithium Polymer (LiPo) cells, I implement
 
 <a href="https://www.hobby-addicts.com/blogs/news/the-ultimate-guide-to-rc-lipo-battery-care-and-maintenance?srsltid=AfmBOooGn46RWfYM8x0MsRsV87lkDkGGGyxn2zXOQoy9Z1O1La-4co_E">  <a href="https://www.youtube.com/watch?v=vuh7Gc3Dbh0"> <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY">  <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY"> 
 
-# STEP 3: Assembling the Lift and Control Surfaces
-
+# STEP 3: Airframe Archetecture
 The lift and control surfaces are by far the most crucial part of any aircraft, since they are what allows it to lift off the ground and control pitch, yaw and roll. 
 
-## Wings
-The most efficient wing design is an airfoil. ( <a href="https://www.naa.edu/airfoil-design/"> Link<a/> to how this works, in case you are unfamiliar with this concept). My airfoil was rather boxy in shape, with curves not as smooth as a traditional one. However, it was more than capable of getting the job done. 
-Instead of using multiple pieces of foamboard and attaching them together, I found an efficient way that only utilizes one single sheet. Here's what I did:
+## Objective
+The goal was to design and fabricate a high-wing airframe capable of stable, low-speed flight, high acceleration, and manueverability, maximized by a trainer-style configuration to prioritize self-leveling abilities and high lift:drag ratios. 
 
-Starting off with a full sheet of foamboard (__ x 30), I measured out and drew three lines at 7.5, 9.25 and 9.75 inches from the bottom of the foamboard sheet (See Figure 1). I then left that sheet of foamboard aside, and started making the spar.
+## Wing Geometry and Lift
+A single sheet of foamboard was utilized to create a modified KFm-1 airfoil (Kline-Fogleman)
+- Design choice: A modified stepped profile is easy to fabricate, and generates consistent lift at high angles of attack
+- Full Spherical Scope: Design choice theoretically (NOT proven for this model) allows for inverted flying and vertical stability
+- Structural Reinforcement: Integration of a double-reinforced foamboard spar at the 17.3% chord position acts as the primary structural enforcement, preventing wing-flex, and allowing the airframe to withstand aerodynamic loads experienced during high G-force manuevers, including climbing and rolling.
 
-My spar was a double-reinforced sheet of foamboard, and significantly bolsters the structural integrity of the wing. It is placed directly in the thickest portion of the airfoil, and retains it's shape. To make the spar, I first drew a line 1.5 inches from the bottom of a fresh piece of foamboard. Then, I cut out the entire 30-inch strip, before finally folding that entire strip in half and gluing each half together. The result was a sturdy length of foamboard that measured 30 inches long, 0.75 inches tall and 0.4 inches thick. 
+## Fuselage Construction and Component Housing
+Maintaining a low weight, the fuselage was designed as a square-rectangular profile to maximize rigidity. 
+- Fabrication Method: A "score-and-fold" techuique creates a seamless inner skin, while reinforcing the exterior with hot glue increases strength.
+- Internal Layout: The fuselage houses a removable power pod, allowing for mdular maintenance of the motor, battery, and ESC. The battery compartment is adjustable for fine-tuning the CG during pre-flight checks.
 
-After this, the next step was to glue the spar onto the wing-foamboard (See Figure 2). Before doing so, I used the FliteTest knife to lightly score each of the three lines, making sure not to accidentally cut them into four seperate strips (Only cut the top half of the foamboard's thickness, not the whole way). Then, I flipped the entire foamboard over onto the un-cut side, found the correct spot, and glued the spar in between the two closest scores on the foamboard.  
+## Empennage and Control Surfaces
+The tail section (empennage) was designed with an oversized vertical stabilizer and elevator to provide maximum control at low airspeeds. At max speed, however, this results in an over-agile craft - increasing the risk of structural breakdown via sudden movements.
+- Hinge Design: Control surfaces were attached utilizing a "foam-hinge" method, with a bevel at 45 degrees to allow for maximum air deflection without mechanical resistance.
 
-<img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400">        <img src="https://i.postimg.cc/NFv4dmy7/Whats-App-Image-2025-07-31-at-09-22-13-a29b1d0d.jpg" alt="My iPhone photo" width="400"> 
+# Phase 4: Experimental Flight Testing and Failure Analysis
 
+## Flight Test Environment and Objectives
+The intial maiden flight was conducted on a low-friction dirt surface to evaluate the aircraft's takeoff performance and pitch stability. The primary objective was to verify the thrust-to-weight ratio and the effectiveness of the control surfaces under manual input.
 
+## Takeoff Dynamics and observations
+- Ground Clearance Issues: Initial taxiing revealed insufficient landing gear height, causing the propellor to skim the grass, necessitating a need for redesigned, high-clearance landing gear struts.
+- Power Abundance: Upon successful takeoff, the aircraft demonstrated a high thrust-to-weight ratio, achieving a near-vertical climb, confirming that the 1050kV motor and 3S battery provided too much power for the airframe's mass.
 
-# STEP 4: Assembling the Fuselage, CG Testing
+## In-Flight Instability and Stall Event:
+- Pitch-Up Moment: Immediately after liftoff, the aircract exhibited extreme pitch sensitivity, indicating an aft Center of Gravity, where the tail is too heavy relative to the wing's center of lift. After the flight, I realized that my CG was located at the 56% chord length, rather than the optimal 25%.
+- Aerodynamic Stall: DUe to the steep andle and low horizontal airspeed, the wing reached a Critical Angle of Attack: resulting in a stall.
+- Uncertainty: Due to my incorrect reflexes, immediately rotating the elevator down was to severe, resulting in an immediate nose-dive. I am currently unable to identify the actual cause of the aerodynamic stall, as due to the motion of the craft, the power generated by the motor seemed to be sufficient to allow the craft to continue climbing at a vertical 90 degree angle of attack.
 
-## Fuselage
-To create a sturdy fuselage, I utilized a new sheet of foamboard - dividing it into four sections along it's longest side, each with a height of 2 inches. Following this, I scored the cuts, careful not to break through the entire length of foamboard. On the left is how I made the cuts, and on the right is how I folded it (with the crevices from the cuts facing outside) :
-<img src="https://i.postimg.cc/9QjXbgrY/img1.jpg" alt="My iPhone photo" width="400">
+## Post-Crash Structural Integrity 
+Despite the impact, the airframe demonstrated high durability.
+- Intact Systems: The fuselage, wings, servos, and internal circutry remained fully functional, validating the "score-and-fold" method used in Phase 3. The power pod, despite incurring the majority of the force during the crash, sustained no significant damage - likely due to the propellor blade acting as a cushion, compared with the soft dirt and grass on the ground
+- Mechanical Failure: The 9x4.5 propellor, likely after cushioning the majority of the force, snapped. Being replacable and detachable from the motor, this isn't a major issue.
 
-Following this, I added hot glue along the full length of each exposed crevice, for all four of them. This increases the integrity of the fuselage, preventing the structure from bending along the folds, and ensuring that the openings retain their square shape. If you don't have enough hot glue, I'd reccomend adding spars throughout the fuselage, though this method adds more weight to the plane. 
+## Next Steps
+- CG Recalibration: Shift the battery forward to achieve the intended 25% chord CG
+- Landing Gear Redesign: Increasing the strut length to provide better propeller clearance
+- Optimal Flying Speed: Conduct various tests at lower throttle percentages to find the optimal cruise speed before attempting high-AOA (angle of attack) maneuvers. 
 
+# Conclusion and Future Technical Roadmap
+While the initial flight resulted in a structural failure, the craft demonstrated significant structural stability and the potential for high G-force manuevers. The data regarding the longitudinal stability and the thrust-to-weight ratios is critical for the next iteration of this project. 
 
-This project is based on the Start Bootstrap Resume template (MIT License). Refer to the "License" tab on Github for more details.
+## Upcoming Objectives
+- Redesign the Landing Gear: Extending the struts
+- CG Optiumization: Implementing a better battery tray for easy adjustment
+- Stabilization: My long term goal is to integrate an onboard flight controller to implement PID (Proportional-Integral-Derivative) control loops, providing an active pitch and roll stabilization to counter the high-theta instabilities observed during the flight.
 
-
-
-<a href="https://www.hobby-addicts.com/blogs/news/the-ultimate-guide-to-rc-lipo-battery-care-and-maintenance?srsltid=AfmBOooGn46RWfYM8x0MsRsV87lkDkGGGyxn2zXOQoy9Z1O1La-4co_E">  <a href="https://www.youtube.com/watch?v=vuh7Gc3Dbh0"> <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY">  <a href="https://www.youtube.com/watch?v=3wKZbQoLtBY"> 
+NOTE: This project remains an ongoing study in aerospace engineering, with the next flight test and data collection upcoming. I will continue editing this repository, keeping it up to date with the latest developments as they arrive.
