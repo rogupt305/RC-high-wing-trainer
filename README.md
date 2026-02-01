@@ -66,8 +66,12 @@ This configuration is highly scalable, with the potential for usage in separate 
 # STEP 2: System Integration and Control
 ## Electronic Component Configuration
 Before airframe assembly, I conducted a bench test of the propulsion and control systems focalizing on electrical viability and signal integrity of the setup. I selected a three-phase brushless motor and a 25A ESC, matching them to a 3S LiPo battery to provide a reliable power-to-weight ratio for a trainer-class aircraft. 
+
 FIGURE 1 (left): a map of the connected components, featuring the motor (far left), ESC (middle), reciever (far right), servo motors (far right, bottom)
+
 FIGURE 2 (right): Assembly in real-world
+
+
 
 <img src="https://i.postimg.cc/y6XGJ3jP/Screenshot-2026-01-31-225043.png" alt="FIG 1" width="400">             <img src="https://i.postimg.cc/wx0V8X0X/IMG2-676767.jpg" alt="FIG 2" width="400">
 
