@@ -133,7 +133,7 @@ FIGURE 8: Dihedral angle
 
 FIGURE 9: Tail dimensions
 
- <img src="https://i.postimg.cc/xTjQX81D/IMG-4038.jpg" alt="FIG 6" width="225"> <img src="https://i.postimg.cc/C5QcMcxX/IMG-4039.jpg" alt="FIG 7" width="225"> <img src="https://i.postimg.cc/P58RJnZ3/IMG-4041.jpg" alt="FIG 8" width="225"> <img src="https://i.postimg.cc/9MXbG6RX/IMG-4042.jpg" alt="FIG 9" width="225"> 
+ <img src="https://i.postimg.cc/xTjQX81D/IMG-4038.jpg" alt="FIG 6" width="235"> <img src="https://i.postimg.cc/C5QcMcxX/IMG-4039.jpg" alt="FIG 7" width="235"> <img src="https://i.postimg.cc/P58RJnZ3/IMG-4041.jpg" alt="FIG 8" width="235"> <img src="https://i.postimg.cc/9MXbG6RX/IMG-4042.jpg" alt="FIG 9" width="235"> 
 
 
 # Phase 4: Experimental Flight Testing and Failure Analysis
