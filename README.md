@@ -1,15 +1,18 @@
-# Design, Fabrication, and Flight-Test Analysis of a Custom High-Wing UAV
+# ABSTRACT: Design, Fabrication, and Flight-Test Analysis of a Custom High-Wing UAV
+The primary objective of this project was to design and prototype a scratch-build unmanned aerial vehicle (UAV) using low-cost, high-durability materials (EPS foamboard. Incorporating a high-propulsion system with a manually fabricated airframe, while ensuring predictable longitudinal stability required a bottom-up approach to systems integration, balancing the requirements of aerodynamic wing load, structural rigidity, and even weight distribution.
 
-### OBJECTIVE
-This repository documents a systematic approach to the design and construction of a scratch-built unmanned aerial vehicle (UAV). The primary engineering objective was to optomize a low-cost, high-lift airframe using foamboard while maintaining structural integrity and predictable flight characterists under a realistic aerodynamic load. 
+### Methodology
+This documented repository follows a comlete engineering cycle, transitioning from intuitive prototyping to data-driven analysis:
+- Propulsion: Sourcing a high-torque brushless DC (BLDC) motor and 11.1V LiPo power storage system to achieve a thrust-to-weight ratio exceeding 1:1, providing high vertical AOA (Angle of Attack) capabilities.
+- Aerodynamic Wing Geometry: Implementing a modified KFm-1 (Kline-Fogleman) modified airfoil to optomize lift at low Reynolds numbers (~300,000 RE), supported by a dougle-reinforced foamboard spar at the 17.3% chord position
+- Flight Analysis: Analyzing the aerodynamic stall and aft-CG displacement from maiden flights, I identified critical failure points in the initial design
+- Iterations: Refocalizing the approach allows for data-driven iterations. Current work focuses on shifting from "intutive" balancing to a calculated Center of Gravity (CG) at the 35% chord length and planning the integration of PID control loops for active stabilization
 
-### OVERVIEW
-Rather than following a pre-set kit, I relied on intuitive design and observational research to develop a functional airframe. This project represents the complete design cycle for the following reasons:
-1. Equipment: Sourced electronic components and matched power systems based on established hobbyist standards for trainer aircraft.
-2. Airframe Fabrication: Hand-crafted the fuselage and wing surfaces from foamboard, utilizing a high-wing configuration to maximize stability and tighten control for a maiden flight. Ailerons can be swapped out later for bigger ones, enabling increased handling capabilities for more experienced flyers.
-3. Experimental Iteration: Conducted initial flight trials to observe aerodynamic behavior. While the first flight resulted in a crash, it provided critical data points regarding balance and structural weak points.
-4. Post-Flight Diagnostics: Currently analyzing the crash results to refine the Center of Gravity, and implement structural reinforcements, shifting from pure intuition toward a data-driven engineering approach.
+### Experinental Observations
+Initial flight trials served as a diagnostic for evaluating airframe integrity and balance. Data gathered from an immediate, high-AOA stall event confirmed aft-heavy Center of Gravity at the 56% chord, providing a quantitative baseline for future stabilization systems. The structural integrity of the fuselage was validated by minimal damage when the airfract suffered a nose-dive impact, with all failure limited to the fracturing of a propellor blade. 
 
+### Conclusion and Future Trajectory
+The project successfully demostrated the viability of manual UAV fabrication using modular components. Future work is directed towards the implementation of PID (Proportional-integral-Deravite) control loops active self-leveling and the recalibration of the battery placement to achieve a better CG. Due to the high thrust-to-weight ratio, space exists for additional sensory equipment. 
 
 
 # STEP 1: Component selection and Power System Design
@@ -142,11 +145,19 @@ FIGURE ___: The propellor broken at the root
 - Optimal Flying Speed: Conduct various tests at lower throttle percentages to find the optimal cruise speed before attempting high-AOA (angle of attack) maneuvers. 
 
 # Conclusion and Future Technical Roadmap
-While the initial flight resulted in a structural failure, the craft demonstrated significant structural stability and the potential for high G-force manuevers. The data regarding the longitudinal stability and the thrust-to-weight ratios is critical for the next iteration of this project. 
+### Project Synthesis
+The development of this high-wing UAV successfully demonstrated the feasibility of integrating high-output brushless propulsion systems with a hand-bamufacturef foabmoard airframe. While the initial flight envelope was limited by a longitudinal stability deficit, the airframe's performance confirmed an exceptional thrust-to-weight ratio and structural resilience. The project transitioned from an intuitive build to a diagnostic study of aerodynamic stall mechanics and center-of-gravity (CG) calibration.
 
-## Upcoming Objectives
-- Redesign the Landing Gear: Extending the struts
-- CG Optiumization: Implementing a better battery tray for easy adjustment
-- Stabilization: My long term goal is to integrate an onboard flight controller to implement PID (Proportional-Integral-Derivative) control loops, providing an active pitch and roll stabilization to counter the high-theta instabilities observed during the flight.
+### Key Findings
+- Structural Integrity: The "Score-and-fold" method prvided significant structural integrity, sufficient for high-AOA and extreme G-force climbs, with no airframe deformation observed at all under maximum throttle. The hollowness of the fuselage contributes to an extremely aerodynamic design, despite high drag insinuated from the airfoil.
+- Stability: Identification of a CG at the 56% chord position creates a critical pitch-up moment, exceeding the elevator's authority at both high and low speeds.
+- Reinforcement: The usage of a power pod successfully isolated the kinetic energy to the replacable propellor, safeguarding the battery, motor, and ESC despite their location at the front of the aircraft.
+
+### Future Technical Roadmap
+- Static Margin Recalibration: Mechanically shifting the battery tray forward to lock the CG at the 25% chord ensures a self-leveling, energy-efficient flight path.
+- Increased Ground Clearance: Redesigning the landing gear struts or purchasing professional landing gear allows for cleaner propellor rotation on unpaved rinways, offering less interference.
+- Active Control: Implementing PID loops would allow for computerized stabilization, countering the high-theta instabilities identified during the intial flight test.
+
+
 
 NOTE: This project remains an ongoing study in aerospace engineering, with the next flight test and data collection upcoming. I will continue editing this repository, keeping it up to date with the latest developments as they arrive.
