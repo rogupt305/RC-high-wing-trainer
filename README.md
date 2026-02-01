@@ -4,15 +4,24 @@ The primary objective of this project was to design and prototype a scratch-buil
 ### Methodology
 This documented repository follows a comlete engineering cycle, transitioning from intuitive prototyping to data-driven analysis:
 - Propulsion: Sourcing a high-torque brushless DC (BLDC) motor and 11.1V LiPo power storage system to achieve a thrust-to-weight ratio exceeding 1:1, providing high vertical AOA (Angle of Attack) capabilities.
-- Aerodynamic Wing Geometry: Implementing a modified KFm-1 (Kline-Fogleman) modified airfoil to optomize lift at low Reynolds numbers (~300,000 RE), supported by a dougle-reinforced foamboard spar at the 17.3% chord position
+- Aerodynamic Wing Geometry: Implementing a modified KFm-1 (Kline-Fogleman) modified airfoil to optimize lift at low Reynolds numbers (~300,000 RE), supported by a dougle-reinforced foamboard spar at the 17.3% chord position
 - Flight Analysis: Analyzing the aerodynamic stall and aft-CG displacement from maiden flights, I identified critical failure points in the initial design
 - Iterations: Refocalizing the approach allows for data-driven iterations. Current work focuses on shifting from "intutive" balancing to a calculated Center of Gravity (CG) at the 35% chord length and planning the integration of PID control loops for active stabilization
 
-### Experinental Observations
+### Experimental Observations
 Initial flight trials served as a diagnostic for evaluating airframe integrity and balance. Data gathered from an immediate, high-AOA stall event confirmed aft-heavy Center of Gravity at the 56% chord, providing a quantitative baseline for future stabilization systems. The structural integrity of the fuselage was validated by minimal damage when the airfract suffered a nose-dive impact, with all failure limited to the fracturing of a propellor blade. 
 
 ### Conclusion and Future Trajectory
 The project successfully demostrated the viability of manual UAV fabrication using modular components. Future work is directed towards the implementation of PID (Proportional-integral-Deravite) control loops active self-leveling and the recalibration of the battery placement to achieve a better CG. Due to the high thrust-to-weight ratio, space exists for additional sensory equipment. 
+
+FIGURE 1 (far left): Completed UAV, featuring power pod and airframe
+
+FIGURE 2 (middle): Completed UAV, featuring modified KFm-1 airfoil, front and rear landing gear
+
+FIGURE 3 (far right): Completed UAV, featuring exposed fuselage for air displacement and easy access to electronics
+
+
+<img src="https://i.postimg.cc/Rhnh30T1/IMG-4033.jpg" alt="FIG 1" width="350">  <img src="https://i.postimg.cc/8PpPQw2y/IMG-4035.jpg" alt="FIG 2" width="350">  <img src="https://i.postimg.cc/yYGqQPsx/IMG-4036.jpg" alt="FIG 3" width="350">
 
 
 # STEP 1: Component selection and Power System Design
@@ -70,13 +79,13 @@ This configuration is highly scalable, with the potential for usage in separate 
 ## Electronic Component Configuration
 Before airframe assembly, I conducted a bench test of the propulsion and control systems focalizing on electrical viability and signal integrity of the setup. I selected a three-phase brushless motor and a 25A ESC, matching them to a 3S LiPo battery to provide a reliable power-to-weight ratio for a trainer-class aircraft. 
 
-FIGURE 1 (left): a map of the connected components, featuring the motor (far left), ESC (middle), reciever (far right), servo motors (far right, bottom)
+FIGURE 4 (left): a map of the connected components, featuring the motor (far left), ESC (middle), reciever (far right), servo motors (far right, bottom)
 
-FIGURE 2 (right): Assembly in real-world
+FIGURE 5 (right): Assembly in real-world
 
 
 
-<img src="https://i.postimg.cc/y6XGJ3jP/Screenshot-2026-01-31-225043.png" alt="FIG 1" width="400">             <img src="https://i.postimg.cc/wx0V8X0X/IMG2-676767.jpg" alt="FIG 2" width="400">
+<img src="https://i.postimg.cc/y6XGJ3jP/Screenshot-2026-01-31-225043.png" alt="FIG 4" width="400">             <img src="https://i.postimg.cc/wx0V8X0X/IMG2-676767.jpg" alt="FIG 5" width="400">
 
 ## Servo Calibration and Control Surface Neutralization
 To ensure precise flight control, I performed a neutralization procedure for all micro-servos
