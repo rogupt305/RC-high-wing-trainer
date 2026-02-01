@@ -126,11 +126,14 @@ The tail section (empennage) was designed with an oversized vertical stabilizer 
 - Hinge Design: Control surfaces were attached utilizing a "foam-hinge" method, with a bevel at 45 degrees to allow for maximum air deflection without mechanical resistance.
 
 FIGURE 6: Side-view of the wing, featuring internal and external dimensions of the wing, spar, and aileron
+
 FIGURE 7: Top view of the wing
+
 FIGURE 8: Dihedral angle
+
 FIGURE 9: Tail dimensions
 
- <img src="https://i.postimg.cc/xTjQX81D/IMG-4038.jpg" alt="FIG 4" width="200"> <img src="https://i.postimg.cc/C5QcMcxX/IMG-4039.jpg" alt="FIG 4" width="200"> <img src="https://i.postimg.cc/P58RJnZ3/IMG-4041.jp" alt="FIG 4" width="200"> <img src="https://i.postimg.cc/9MXbG6RX/IMG-4042.jpg" alt="FIG 4" width="200"> 
+ <img src="https://i.postimg.cc/xTjQX81D/IMG-4038.jpg" alt="FIG 6" width="200"> <img src="https://i.postimg.cc/C5QcMcxX/IMG-4039.jpg" alt="FIG 7" width="200"> <img src="https://i.postimg.cc/P58RJnZ3/IMG-4041.jpg" alt="FIG 8" width="200"> <img src="https://i.postimg.cc/9MXbG6RX/IMG-4042.jpg" alt="FIG 9" width="200"> 
 
 
 # Phase 4: Experimental Flight Testing and Failure Analysis
