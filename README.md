@@ -21,7 +21,7 @@ FIGURE 2 (middle): Completed UAV, featuring modified KFm-1 airfoil, front and re
 FIGURE 3 (far right): Completed UAV, featuring exposed fuselage for air displacement and easy access to electronics
 
 
-<img src="https://i.postimg.cc/Rhnh30T1/IMG-4033.jpg" alt="FIG 1" width="310">  <img src="https://i.postimg.cc/8PpPQw2y/IMG-4035.jpg" alt="FIG 2" width="310">  <img src="https://i.postimg.cc/yYGqQPsx/IMG-4036.jpg" alt="FIG 3" width="310">
+<img src="https://i.postimg.cc/Rhnh30T1/IMG-4033.jpg" alt="FIG 1" width="325">  <img src="https://i.postimg.cc/8PpPQw2y/IMG-4035.jpg" alt="FIG 2" width="325">  <img src="https://i.postimg.cc/yYGqQPsx/IMG-4036.jpg" alt="FIG 3" width="325">
 
 
 # STEP 1: Component selection and Power System Design
