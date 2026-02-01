@@ -3,7 +3,7 @@
 ### OBJECTIVE
 This repository documents a systematic approach to the design and construction of a scratch-built unmanned aerial vehicle (UAV). The primary engineering objective was to optomize a low-cost, high-lift airframe using foamboard while maintaining structural integrity and predictable flight characterists under a realistic aerodynamic load. 
 
-### ENGINEERING OVERVIEW
+### OVERVIEW
 Rather than following a pre-set kit, I relied on intuitive design and observational research to develop a functional airframe. This project represents the complete design cycle for the following reasons:
 1. Equipment: Sourced electronic components and matched power systems based on established hobbyist standards for trainer aircraft.
 2. Airframe Fabrication: Hand-crafted the fuselage and wing surfaces from foamboard, utilizing a high-wing configuration to maximize stability and tighten control for a maiden flight. Ailerons can be swapped out later for bigger ones, enabling increased handling capabilities for more experienced flyers.
