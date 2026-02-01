@@ -128,6 +128,10 @@ Despite the impact, the airframe demonstrated high durability.
 - Intact Systems: The fuselage, wings, servos, and internal circutry remained fully functional, validating the "score-and-fold" method used in Phase 3. The power pod, despite incurring the majority of the force during the crash, sustained no significant damage - likely due to the propellor blade acting as a cushion, compared with the soft dirt and grass on the ground
 - Mechanical Failure: The 9x4.5 propellor, likely after cushioning the majority of the force, snapped. Being replacable and detachable from the motor, this isn't a major issue.
 
+FIGURE ___: The propellor broken at the root
+  <img src="https://i.postimg.cc/7YjSwmzW/IMG3-414141.jpg" alt="FIG ___" width="400">
+
+  
 ## Next Steps
 - CG Recalibration: Shift the battery forward to achieve the intended 25% chord CG
 - Landing Gear Redesign: Increasing the strut length to provide better propeller clearance
