@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+description: >
+  <b>Model Type:</b> High-Wing UAV <br>
+  <b>Wingspan:</b> 508mm <br>
+  <b>Propulsion:</b> FT (FliteTest) Radial 2212-1050kV <br>
+  <b>Airfoil:</b> Modified Kfm-1 <br>
+  <b>Build Material:</b> EPS Foamboard <br>
