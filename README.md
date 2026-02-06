@@ -15,11 +15,11 @@ Data gathered from an immediate, high-AOA stall event during the first maiden co
 ### Conclusion and Future Trajectory
 The project successfully demostrated the viability of manual UAV fabrication using modular components. Future work is directed towards the implementation of PID (Proportional-Integral-Derivative) control loops, active self-leveling, and the recalibration of the battery placement to achieve a better CG. Due to the high thrust-to-weight ratio, space exists for additional sensory equipment. 
 
-**FIGURE 1 (far left)**: Completed UAV, featuring power pod and airframe
+**FIGURE 1 (top)**: Completed UAV, featuring power pod and airframe
 
 **FIGURE 2 (middle)**: Completed UAV, featuring modified KFm-1 airfoil, front and rear landing gear
 
-**FIGURE 3 (far right)**: Completed UAV, featuring exposed fuselage for air displacement and easy access to electronics
+**FIGURE 3 (bottom)**: Completed UAV, featuring exposed fuselage for air displacement and easy access to electronics
 
 
 <img src="https://i.postimg.cc/Rhnh30T1/IMG-4033.jpg" alt="FIG 1" width="322">  <img src="https://i.postimg.cc/8PpPQw2y/IMG-4035.jpg" alt="FIG 2" width="322">  <img src="https://i.postimg.cc/yYGqQPsx/IMG-4036.jpg" alt="FIG 3" width="322">
@@ -126,13 +126,13 @@ Maintaining a low weight, the fuselage was designed as a square-rectangular prof
 The tail section (empennage) was designed with an oversized vertical stabilizer and elevator to provide maximum control at low airspeeds. At max speed, however, this results in an over-agile craft - increasing the risk of structural breakdown via sudden movements.
 - **Hinge Design**: Control surfaces were attached utilizing a "foam-hinge" method, with a bevel at 45 degrees to allow for maximum air deflection without mechanical resistance.
 
-**FIGURE 6**: Side-view of the wing, featuring internal and external dimensions of the wing chord and spar
+**FIGURE 6 (top left)**: Side-view of the wing, featuring internal and external dimensions of the wing chord and spar
 
-**FIGURE 7**: Top view of the wing, dimensions of the aileron, wingspan
+**FIGURE 7 (top right)**: Top view of the wing, dimensions of the aileron, wingspan
 
-**FIGURE 8**: Dihedral angle
+**FIGURE 8 (bottom left)**: Dihedral angle
 
-**FIGURE 9:** Tail, rudder and elevator dimensions
+**FIGURE 9 (bottom right)**: Tail, rudder and elevator dimensions
 
  <img src="https://i.postimg.cc/xTjQX81D/IMG-4038.jpg" alt="FIG 6" width="235"> <img src="https://i.postimg.cc/C5QcMcxX/IMG-4039.jpg" alt="FIG 7" width="235"> <img src="https://i.postimg.cc/P58RJnZ3/IMG-4041.jpg" alt="FIG 8" width="235"> <img src="https://i.postimg.cc/9MXbG6RX/IMG-4042.jpg" alt="FIG 9" width="235"> 
 
