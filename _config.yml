@@ -1,12 +1,14 @@
 theme: jekyll-theme-minimal
+title: RC High-Wing Trainer
+description: |
+  A documented repository detailing the construction of a custom-made RC plane.
 
-description: >
-
-    A thoroughly documented repository detailing the full construction of a custom-made RC plane, incorporating specific aerodynamic principles, materials, and designs to create a craft optimized for power, lift, and manuverability. <br>
+  Model Type: High-Wing UAV
   
-  <b>Model Type:</b> High-Wing UAV <br>
-  <b>Wingspan:</b> 508mm <br>
-  <b>Propulsion:</b> FT Radial 2212-1050kV <br>
-  <b>Airfoil:</b> Modified Kfm-1 <br>
-  <b>Material:</b> EPS Foamboard <br>
-  <b>Weight:</b> 0.42 lb (190.5g)
+  Wingspan: 508mm
+  
+  Propulsion: FT Radial 2212-1050kV
+  
+  Airfoil: Modified Kfm-1
+  
+  Weight: 0.42 lb (190.5g)
