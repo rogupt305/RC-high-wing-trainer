@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+description: >
+
+    A thoroughly documented repository detailing the full construction of a custom-made RC plane, incorporating specific aerodynamic principles, materials, and designs to create a craft optimized for power, lift, and manuverability. <br>
+  
+  <b>Model Type:</b> High-Wing UAV <br>
+  <b>Wingspan:</b> 508mm <br>
+  <b>Propulsion:</b> FT Radial 2212-1050kV <br>
+  <b>Airfoil:</b> Modified Kfm-1 <br>
+  <b>Material:</b> EPS Foamboard <br>
+  <b>Weight:</b> 0.42 lb (190.5g)
