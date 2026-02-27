@@ -182,9 +182,11 @@ FIGURE 10: The propellor broken at the root
  
 ## Flight Test Environment and Objectives
 The next consecutive flight was conducted with the goals of testing new modifications and focusing on stability and in-flight performance. It also aimed to test the following:
-    - Stall speed
-    - Maximum speed
-    - Airfoil Integrity
+- Stall speed
+- Maximum speed
+- Airfoil integrity under high-G manuevers
+- Motor efficiency
+- Accurate maximum flight time
 
 
 *TO BE MODIFIED*
