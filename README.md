@@ -167,7 +167,8 @@ FIGURE 10: The propellor broken at the root
 - **Landing Gear Redesign**: Increasing the strut length to provide better propeller clearance
 - **Optimal Flying Speed**: Conduct various tests at lower throttle percentages to find the optimal cruise speed before attempting high-AOA (angle of attack) maneuvers. 
 
-# *Phase 5: Experimental Flight Testing and Failure Analysis: FLIGHT 2*
+# Phase 5: Experimental Flight Testing and Failure Analysis: FLIGHT 2 
+*IN PROGRESS*
 
 ## Modifications (Prior to Flight)
 - Moved the CG forward by adding weights (a phone holder as a makeshift option)
