@@ -169,7 +169,24 @@ FIGURE 10: The propellor broken at the root
 
 # *Phase 5: Experimental Flight Testing and Failure Analysis: FLIGHT 2*
 
-## *TO BE MODIFIED*
+## Modifications (Prior to Flight)
+- Moved the CG forward by adding weights (a phone holder as a makeshift option)
+- Shifted the front landing gear to its highest fore position, allowing for the CG to rest comfortably between the two landing gears
+- Altered the maximum angles of the alierons by cutting away more foamboard at the root
+- Redesigned power pod
+    - Shifted battery compartment to the fore
+    - Added coins to increase fore weight
+    - Provided more space for the ESC to cool via airflow
+    - Altered the motor mount angle to a 5 degree incline relative to the horizontal for easier takeoffs and landings
+ 
+## Flight Test Environment and Objectives
+The next consecutive flight was conducted with the goals of testing new modifications and focusing on stability and in-flight performance. It also aimed to test the following:
+    - Stall speed
+    - Maximum speed
+    - Airfoil Integrity
+
+
+*TO BE MODIFIED*
 
 # Conclusion and Future Roadmap
 ### Project Synthesis
