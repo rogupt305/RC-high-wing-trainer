@@ -192,15 +192,15 @@ The next consecutive flight was conducted with the goals of testing new modifica
 *TO BE MODIFIED*
 
 # Conclusion and Future Roadmap
-### Project Synthesis
+## Project Synthesis
 The development of this high-wing UAV successfully demonstrated the feasibility of integrating high-output brushless propulsion systems with a hand-manufactured foamboard airframe. While the initial flight envelope was limited by a longitudinal stability deficit, the airframe's performance confirmed an exceptional thrust-to-weight ratio and structural resilience. The project transitioned from an intuitive build to an active study of aerodynamic stall mechanics and center-of-gravity (CG) calibration.
 
-### Key Findings
+## Key Findings
 - **Structural Integrity**: The "Score-and-fold" method provided significant structural integrity, sufficient for high-AOA and extreme G-force climbs, with no airframe deformation observed at all under maximum throttle. The hollowness of the fuselage contributes to an extremely aerodynamic design, despite high drag insinuated from the airfoil.
 - **Stability**: Identification of CG at the 56% chord position creates a critical pitch-up moment, exceeding the elevator's authority at both high and low speeds.
 - **Reinforcement**: The usage of a power pod successfully isolated the kinetic energy to the replacable propellor, safeguarding the battery, motor, and ESC despite their location at the front of the aircraft.
 
-### Future Technical Roadmap
+## Future Technical Roadmap
 - **Static Margin Recalibration**: Mechanically shifting the battery tray forward to lock the CG at the 25% chord ensures a self-leveling, energy-efficient flight path.
 - **Increased Ground Clearance**: Redesigning the landing gear struts or purchasing professional landing gear allows for cleaner propellor rotation on unpaved runways, offering less interference.
 - **Active Control**: Implementing PID loops would allow for computerized stabilization, countering the high-theta instabilities identified during the intial flight test.
