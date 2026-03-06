@@ -186,7 +186,7 @@ The next consecutive flight was conducted with the goals of testing new modifica
 - Maximum speed
 - Airfoil integrity under high-G manuevers
 - Motor efficiency
-- Accurate maximum flight time
+- Fuselage integrity
 
 
 *TO BE MODIFIED*
