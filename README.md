@@ -188,7 +188,17 @@ The next consecutive flight was conducted with the goals of testing new modifica
 - Motor efficiency
 - Fuselage integrity
 
+## Results
+The second trial, despite only providing a total flight time of around 5-10 seconds per takeoff, with the plane wobbling longitudinally, proved that my CG modifications went a long way towards preventing a tail-heavy craft. I also collected data points for three of my testing criterion: Stall speed 
 
+Despite previous modifications, the trial was unable to provide results for:
+- Maximum speed
+- Airfoil integity under high-G manuevers
+
+Below is a documented list of the success points:
+- Motor efficiency: The motor provides a highly efficient, constant thrust, which can experience rapid bursts due primarily to the high discharge rates of the battery and the integrity of the propellor
+- Stall speed: The plane has a stall speed recorded at around 4 mph (3.47NM/h) for an angle of attack at around 5 degrees. However, the plane can theoretically fly at speeds below this, by adjusting the propellor speed and maintaining a high angle of attack. This is enabled due to it's theoretical ability to fly vertically, due to a thrust-to-weight ratio exceeding that of 1:1, made possible by the motor and battery setup
+- Fuselage integrity: Strong. Showed zero signs of wear/tear during the air, 
 *TO BE MODIFIED*
 
 # Conclusion and Future Roadmap
